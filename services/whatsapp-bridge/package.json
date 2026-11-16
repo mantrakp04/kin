@@ -1,0 +1,13 @@
+{
+  "name": "kin-whatsapp-bridge",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "start": "node --env-file-if-exists=/home/user/.capy/work/bridge.env bridge.mjs"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "7.0.0-rc14",
+    "pino": "^10.4.0"
+  }
+}

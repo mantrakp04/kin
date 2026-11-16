@@ -1,0 +1,332 @@
+1
+00:00:00,100 --> 00:00:02,167
+Hey, guys. We are trying to solve
+
+2
+00:00:02,167 --> 00:00:04,347
+the oldest consumer app there is,
+
+3
+00:00:04,347 --> 00:00:06,467
+the Contacts app. It has never been
+
+4
+00:00:06,467 --> 00:00:08,233
+updated, and we don't know why,
+
+5
+00:00:08,233 --> 00:00:09,353
+but it is one of the most
+
+6
+00:00:09,353 --> 00:00:10,700
+important apps on your phone.
+
+7
+00:00:10,700 --> 00:00:12,280
+The way we do it is that
+
+8
+00:00:12,280 --> 00:00:14,387
+you sync your contacts and then connect
+
+9
+00:00:14,387 --> 00:00:16,627
+your LinkedIn, X, Instagram,
+
+10
+00:00:16,627 --> 00:00:19,367
+WhatsApp, and, iMessage. We get
+
+11
+00:00:19,367 --> 00:00:20,947
+all the chats and the conversations you
+
+12
+00:00:20,947 --> 00:00:22,487
+have on this platform and all the
+
+13
+00:00:22,487 --> 00:00:24,580
+people you follow and create a contacts
+
+14
+00:00:24,580 --> 00:00:26,400
+list for you, and then we scrape
+
+15
+00:00:26,400 --> 00:00:29,220
+all the available, publicly available information on
+
+16
+00:00:29,220 --> 00:00:31,220
+the contact and store it inside a
+
+17
+00:00:31,220 --> 00:00:33,900
+graph memory database, powered by Supermemory.
+
+18
+00:00:33,900 --> 00:00:36,380
+Next up, we have brainrot style updates
+
+19
+00:00:36,380 --> 00:00:38,740
+because our generation does not read.
+
+20
+00:00:38,740 --> 00:00:40,480
+So what we have done is all
+
+21
+00:00:40,480 --> 00:00:42,470
+the updates you have about your network,
+
+22
+00:00:42,480 --> 00:00:44,960
+it goes into a pipeline that makes
+
+23
+00:00:44,960 --> 00:00:46,760
+brainrot style TikToks for you,
+
+24
+00:00:46,760 --> 00:00:49,477
+like Family Guy. And you basically,
+
+25
+00:00:49,507 --> 00:00:50,967
+in thirty seconds, you get all the
+
+26
+00:00:50,967 --> 00:00:51,777
+updates.
+
+27
+00:01:00,720 --> 00:01:02,800
+Assume that Maya is having her birthday
+
+28
+00:01:02,800 --> 00:01:05,440
+tomorrow, and she has mentioned on Instagram
+
+29
+00:01:05,440 --> 00:01:07,067
+that she likes, she likes to shoot
+
+30
+00:01:07,067 --> 00:01:09,087
+films. So you can just quickly click
+
+31
+00:01:09,087 --> 00:01:11,173
+on Send Gift, and the agent will
+
+32
+00:01:11,173 --> 00:01:13,493
+buy it using Agentcard and use
+
+33
+00:01:13,493 --> 00:01:15,920
+RentAHuman to deliver the personalized gift,
+
+34
+00:01:15,920 --> 00:01:17,873
+to them. Along with a bouquet or,
+
+35
+00:01:17,873 --> 00:01:19,720
+or like a special gift that you
+
+36
+00:01:19,720 --> 00:01:20,870
+think would suit.
+
+37
+00:01:39,160 --> 00:01:41,280
+we also have a People tab,
+
+38
+00:01:41,280 --> 00:01:42,880
+and this is basically your contact,
+
+39
+00:01:42,880 --> 00:01:44,207
+the regular contacts app,
+
+40
+00:01:44,207 --> 00:01:46,007
+except when you click on someone,
+
+41
+00:01:46,007 --> 00:01:47,667
+you can see a lot more information
+
+42
+00:01:47,667 --> 00:01:49,767
+about that person, all the recent updates
+
+43
+00:01:49,767 --> 00:01:51,240
+about that person and,
+
+44
+00:01:51,240 --> 00:01:52,900
+you know, who are the mutuals,
+
+45
+00:01:52,900 --> 00:01:54,307
+between you and that person.
+
+46
+00:01:54,307 --> 00:01:56,007
+You can also visualize this in a
+
+47
+00:01:56,007 --> 00:01:57,800
+graph format where you can also click
+
+48
+00:01:57,800 --> 00:01:59,180
+on a person and see how they're
+
+49
+00:01:59,180 --> 00:02:00,707
+interlinked with other people.
+
+50
+00:02:00,707 --> 00:02:02,467
+Next up, we have maps.
+
+51
+00:02:02,467 --> 00:02:03,460
+I don't know. but yeah,
+
+52
+00:02:03,460 --> 00:02:04,850
+next time you go to a city,
+
+53
+00:02:04,860 --> 00:02:06,573
+you already know which of your,
+
+54
+00:02:06,573 --> 00:02:08,293
+connections, like from your contacts,
+
+55
+00:02:08,293 --> 00:02:09,307
+are in that city,
+
+56
+00:02:09,307 --> 00:02:10,907
+so you can actually meet up with
+
+57
+00:02:10,907 --> 00:02:12,887
+them A very important thing over here
+
+58
+00:02:12,887 --> 00:02:14,787
+is that you don't share your exact
+
+59
+00:02:14,787 --> 00:02:17,027
+location. It's more like what city you
+
+60
+00:02:17,027 --> 00:02:18,487
+are in because I don't want to
+
+61
+00:02:18,487 --> 00:02:20,027
+share my Find My with everyone in
+
+62
+00:02:20,027 --> 00:02:21,227
+the contact list, right?
+
+63
+00:02:21,227 --> 00:02:22,867
+You can also share your agentic contact
+
+64
+00:02:22,867 --> 00:02:24,127
+card with other people,
+
+65
+00:02:24,127 --> 00:02:26,157
+and they can message your agent,
+
+66
+00:02:26,247 --> 00:02:28,787
+which is technically a second brain because
+
+67
+00:02:28,787 --> 00:02:30,333
+it has all the information that you
+
+68
+00:02:30,333 --> 00:02:32,867
+have, and it only reveals approved
+
+69
+00:02:32,867 --> 00:02:34,807
+personal information to the other person.
+
+70
+00:02:34,807 --> 00:02:36,807
+For example, Maya wants to book a
+
+71
+00:02:36,807 --> 00:02:37,960
+coffee chat with me,
+
+72
+00:02:37,960 --> 00:02:39,370
+and the agent gives her,
+
+73
+00:02:39,460 --> 00:02:40,920
+because it has access to my calendar,
+
+74
+00:02:40,920 --> 00:02:43,430
+the agent gives her available time slots,
+
+75
+00:02:43,500 --> 00:02:44,720
+and then she can just select whichever
+
+76
+00:02:44,720 --> 00:02:47,150
+time slots, and then the agent will
+
+77
+00:02:47,160 --> 00:02:49,393
+make a reservation for both of us,
+
+78
+00:02:49,393 --> 00:02:51,160
+at the approved time and date.
+
+79
+00:02:51,160 --> 00:02:52,860
+And yeah, I don't have to do
+
+80
+00:02:52,860 --> 00:02:54,360
+anything. I just get a notification on
+
+81
+00:02:54,360 --> 00:02:55,260
+the day I have to go that,
+
+82
+00:02:55,260 --> 00:02:56,667
+"Hey, I have a coffee chat with
+
+83
+00:02:56,667 --> 00:02:58,083
+Maya." Thank you.
+
